@@ -7,7 +7,7 @@ Perfect for UI experiments, demos, or avoiding accidental deafening.
 ---
 
 ## Preview
-![FakeDeafen Preview](assets/preview.png)
+![FakeDeafen Preview]([assets/preview.png](https://media.discordapp.net/attachments/1390061386226335826/1404318683530137642/fackdef1.png?ex=689ac131&is=68996fb1&hm=b2a5ad8f8c6ba8c69e0b3ffbad445e6a8762585e8665545f5f76430704b68eca&=&format=webp&quality=lossless))
 
 ---
 
