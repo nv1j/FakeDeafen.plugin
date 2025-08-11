@@ -7,7 +7,7 @@ Perfect for UI experiments, demos, or avoiding accidental deafening.
 ---
 
 ## Preview
-![FakeDeafen Preview](preview.png)
+![FakeDeafen Preview](assets/preview.png)
 
 ---
 
