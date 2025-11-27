@@ -4,10 +4,13 @@ A BetterDiscord plugin that replaces the default **Deafen** button with a realis
 The real functionality is hidden, but can still be triggered when needed.  
 Perfect for UI experiments, demos, or avoiding accidental deafening.
 
+
 ---
 
-## Preview
-![FakeDeafen Preview]([assets/preview.png](https://media.discordapp.net/attachments/1390061386226335826/1404318683530137642/fackdef1.png?ex=689ac131&is=68996fb1&hm=b2a5ad8f8c6ba8c69e0b3ffbad445e6a8762585e8665545f5f76430704b68eca&=&format=webp&quality=lossless))
+## Logo
+<p align="center">
+  <img src="assets/fake_logo.png" width="300" alt="FakeDeafen Logo">
+</p>
 
 ---
 
