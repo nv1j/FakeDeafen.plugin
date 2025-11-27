@@ -68,9 +68,8 @@ module.exports = class FakeDeafen {
 
         const icon = document.createElement("img");
         icon.src = "https://github.com/user-attachments/assets/24997f09-fa63-4340-bb1e-55c9316300f8";
-        icon.alt = "Fake Deafen";
-        icon.style.width = "25px";
-        icon.style.height = "25px";
+        icon.style.width = "30px";
+        icon.style.height = "30px";
               
         fakeDeafenBtn.appendChild(icon);
         fakeDeafenBtn.onclick = () => window.deafen();
