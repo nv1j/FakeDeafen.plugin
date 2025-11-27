@@ -8,9 +8,7 @@ Perfect for UI experiments, demos, or avoiding accidental deafening.
 ---
 
 ## Logo
-<p align="center">
-  <img src="assets/fake_logo.png" width="300" alt="FakeDeafen Logo">
-</p>
+![Image](https://github.com/user-attachments/assets/24997f09-fa63-4340-bb1e-55c9316300f8)
 
 ---
 
