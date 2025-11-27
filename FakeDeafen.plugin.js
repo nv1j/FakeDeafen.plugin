@@ -67,7 +67,7 @@ module.exports = class FakeDeafen {
         fakeDeafenBtn.onmouseleave = () => fakeDeafenBtn.style.transform = "scale(1)";
 
         const icon = document.createElement("img");
-        icon.src = "https://media.discordapp.net/attachments/1398192371216158812/1398374555306692608/logo-removebg-preview.png?ex=6885214a&is=6883cfca&hm=cc4d4b78cbf773b3cddb9fd69ecc4b68f71ea4645da91f4e37b0df7021a82ec6&=&format=webp&quality=lossless"; // ✅ أيقونة جاهزة
+        icon.src = "https://github.com/user-attachments/assets/24997f09-fa63-4340-bb1e-55c9316300f8";
         icon.alt = "Fake Deafen";
         icon.style.width = "25px";
         icon.style.height = "25px";
